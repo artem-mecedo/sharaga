@@ -1,7 +1,6 @@
 #pragma once
-
 typedef char dataa;
-
+жопа
 struct SDeq
 {
 private:
